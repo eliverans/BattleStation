@@ -1,0 +1,283 @@
+[
+    [
+        "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1525868713593,
+            "changeTime": 1525868713593,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1525868713602,
+            "changeTime": 1525868713602,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1525884276896,
+            "changeTime": 1525884276896,
+            "contentHash": "5d01f3b640c9658c0be9fcc395da6b802cf0cc2c"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1525868713605,
+            "changeTime": 1525868713605,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\sfdx_projects\\BattleStation",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\eliverani\\sfdx_projects\\BattleStation",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1525873358977,
+            "changeTime": 1525873358977,
+            "contentHash": "ac8ebe8fbf8686ccd99613333554bc80e3ff17df",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app\\main\\default\\objects\\Battle_Station__c\\Battle_Station__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app\\main\\default\\objects\\Battle_Station__c\\Battle_Station__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2174,
+            "modifiedTime": 1525884276847,
+            "changeTime": 1525884276847,
+            "contentHash": "482b7ad702eee28024c27f920c3cfc295bc7819a"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app\\main\\default\\layouts\\Battle_Station__c-Battle Station Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app\\main\\default\\layouts\\Battle_Station__c-Battle Station Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1947,
+            "modifiedTime": 1525884276860,
+            "changeTime": 1525884276860,
+            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app\\main\\default\\flexipages\\Battle_Station_Construction_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app\\main\\default\\flexipages\\Battle_Station_Construction_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 401,
+            "modifiedTime": 1525884276869,
+            "changeTime": 1525884276869,
+            "contentHash": "1db967b952f0dc1e3da042166c4d5dbb3d236f0e"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app\\main\\default\\tabs\\Battle_Station__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app\\main\\default\\tabs\\Battle_Station__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 225,
+            "modifiedTime": 1525884276878,
+            "changeTime": 1525884276878,
+            "contentHash": "ddeae5eadbf9e422cad0188d1418fd25bc244096"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app\\main\\default\\applications\\Battle_Station_Construction.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app\\main\\default\\applications\\Battle_Station_Construction.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 578,
+            "modifiedTime": 1525884276889,
+            "changeTime": 1525884276889,
+            "contentHash": "fd43854ed5723548a7966438570c06f03e41c560"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app\\main\\default\\profiles\\Custom: Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app\\main\\default\\profiles\\Custom: Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4754,
+            "modifiedTime": 1525884276923,
+            "changeTime": 1525884276923,
+            "contentHash": "6fcb947693c112264657c499a2419e7c8da7cc70"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app\\main\\default\\profiles\\Custom: Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app\\main\\default\\profiles\\Custom: Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4754,
+            "modifiedTime": 1525884276923,
+            "changeTime": 1525884276923,
+            "contentHash": "6fcb947693c112264657c499a2419e7c8da7cc70"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app\\main\\default\\profiles\\Custom: Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app\\main\\default\\profiles\\Custom: Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5092,
+            "modifiedTime": 1525884276923,
+            "changeTime": 1525884276923,
+            "contentHash": "d7d70968f22c12e40bc38ca476d74d44bdab120e"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18149,
+            "modifiedTime": 1525884276952,
+            "changeTime": 1525884276952,
+            "contentHash": "111919f69bf26e39d97d02659e5a93d7307641b6"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app\\main\\default\\objects\\Battle_Station__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app\\main\\default\\objects\\Battle_Station__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1525884276843,
+            "changeTime": 1525884276843,
+            "contentHash": "e2b8e6d8c56a0abefc616a5d6b4eb27207558f85"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1525884276838,
+            "changeTime": 1525884276838,
+            "contentHash": "cd6871285d088af0070e341e38b06d05d0b53be6"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1525884276858,
+            "changeTime": 1525884276858,
+            "contentHash": "a7f47da223b31c88dcac6d4291144079b63e4b63"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1525884276868,
+            "changeTime": 1525884276868,
+            "contentHash": "9f3eb227d3bb26bdba6b6e2fcb37af73b252d539"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1525884276877,
+            "changeTime": 1525884276877,
+            "contentHash": "b7002ffb535867bbc39866e3dce3459698ba9eda"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app\\main\\default\\applications",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1525884276887,
+            "changeTime": 1525884276887,
+            "contentHash": "ddccaec7639195293567da36d3410283e080fb58"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\eliverani\\sfdx_projects\\BattleStation\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1525884276944,
+            "changeTime": 1525884276944,
+            "contentHash": "28a941c36edc4d0e24ad208bddbadc4530145796"
+        }
+    ]
+]
